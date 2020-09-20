@@ -1,4 +1,4 @@
-# face_mask_detection
+# face_mask_detection using python3 and tensorflow 2.0
 
 ```diff
 pip install pip3
